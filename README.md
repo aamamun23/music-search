@@ -1,10 +1,8 @@
-# hard-rock-solution
-### Search Song
-api link: https://api.lyrics.ovh/suggest/:searchText
+# Music Search
 
-example: https://api.lyrics.ovh/suggest/hello
+## Search
+One can search song from the search
 
-### Lyric
-lyric link: https://api.lyrics.ovh/v1/:artist/:title
+## Lyric
+After search the music if he/she want to see the lyrics of the song just need click on the Get Lyrics button
 
-example: https://api.lyrics.ovh/v1/Adele/Hello
